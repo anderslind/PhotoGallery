@@ -1,0 +1,13 @@
+{
+  "name": "gallery",
+  "version": "0.0.0",
+  "description": "gallery",
+  "main": "server.js",
+  "repository": "",
+  "author": "AL",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
